@@ -1,4 +1,3 @@
-/* comment */
 /* Layout Stuff */
 * {
   box-sizing: border-box;
@@ -135,7 +134,7 @@
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-  width: 8px;
+  width: 11px;
   height: 14px;
   background: #744737;
   top: 31px;
@@ -152,7 +151,7 @@
   transform: translateX(-50%);
 }
 #finn .jacket {
-  background: #d1a868;
+  background:#c0faf7;
   position: absolute;
   top: 0;
   width: 30%;
@@ -247,7 +246,7 @@
   top: 40px;
   width: 80px;
   height: 50px;
-  background: #363435;
+  background: #fcbd4e;
   border-radius: 50% 50% 0 0;
 }
 #rey .hair:before {
@@ -258,7 +257,7 @@
   border-radius: 50%;
   left: 50%;
   top: -10px;
-  background: #363435;
+  background: #fcbd4e;
   transform: translateX(-50%);
 }
 #rey .bangs {
@@ -267,7 +266,7 @@
   top: 40px;
   width: 60px;
   height: 20px;
-  background: #363435;
+  background: #fcbd4e;
   z-index: 4;
   transform: translateX(-50%);
   border-radius: 50% 50% 50% 50%;
@@ -308,8 +307,8 @@
 #rey .eyes {
   position: absolute;
   top: 34px;
-  width: 10px;
-  height: 10px;
+  width: 12px;
+  height: 12px;
   background: #424b54;
   border-radius: 50%;
   left: 25%;
@@ -318,8 +317,8 @@
 #rey .eyes:after {
   content: "";
   position: absolute;
-  width: 10px;
-  height: 10px;
+  width: 12px;
+  height: 12px;
   background: #424b54;
   top: 0;
   border-radius: 50%;
@@ -1253,7 +1252,7 @@
   border-radius: 100% 100px;
   left: 60px;
   top: 46px;
-  background: #e96e48;
+  background: #fcbd4e;
   z-index: 3;
   transform: rotate(-45deg);
 }
@@ -1357,7 +1356,7 @@
 #hux .mouth {
   position: absolute;
   background: #424b54;
-  width: 30px;
+  width: 20px;
   height: 4px;
   border-radius: 5px 5px 0 0;
   top: 55px;
